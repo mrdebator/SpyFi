@@ -2,6 +2,18 @@
 #Author: Ansh - mrdebator
 import os
 
+print('''
+
+╭━━━╮╱╱╱╱╱╱╭━━━╮
+┃╭━╮┃╱╱╱╱╱╱┃╭━━╯
+┃╰━━┳━━┳╮╱╭┫╰━━┳╮
+╰━━╮┃╭╮┃┃╱┃┃╭━━╋┫
+┃╰━╯┃╰╯┃╰━╯┃┃╱╱┃┃
+╰━━━┫╭━┻━╮╭┻╯╱╱╰╯
+╱╱╱╱┃┃╱╭━╯┃
+╱╱╱╱╰╯╱╰━━╯
+''')
+
 print('Python Script to automate network monitoring and estimate geographic location of Access Points.')
 os.system('sudo airmon-ng')
 
